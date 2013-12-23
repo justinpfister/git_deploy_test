@@ -1,3 +1,3 @@
 <?
-echo "my local php file";
+echo "my local php file - test update";
 exit;
